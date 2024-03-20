@@ -1,0 +1,42 @@
+{
+    "producto":[
+        {
+            "Id":1,
+            "Descripcion":"Mouse",
+            "Precio":"30.00"
+        },
+        {
+            "Id":2,
+            "Descripcion":"Pila",
+            "Precio":"35.00"
+
+        },
+            
+        {
+            "Id":3,
+            "Descripcion":"Sata",
+            "Precio":"10.00"
+        },
+        {
+            "Id":4,
+            "Descripcion":"teclado",
+            "Precio":"40.00"
+           
+        },
+
+        {
+            "Id":5,
+            "Descripcion":"MaderWord",
+            "Precio":"80.00"
+           
+        },
+
+        {
+            "Id":6,
+            "Descripcion":"Ram",
+            "Precio":"50.00"
+           
+        }
+        
+    ]
+}
